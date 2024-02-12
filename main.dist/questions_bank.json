@@ -1,0 +1,452 @@
+[
+ {
+  "STT": 1,
+  "CÂU HỎI": "Trong công văn số 2884\/PCLK - AT ngày 03\/11\/2023 V\/v triển khai thực hiện VHAT năm 2023. Việc nhận diện mối nguy và kiểm soát rủi ro dựa trên cơ sở phân loại mấy nhóm mối nguy ?",
+  "A": 6,
+  "B": 5,
+  "C": 4,
+  "D": 3,
+  "ĐÁP ÁN ĐÚNG": "C"
+ },
+ {
+  "STT": 2,
+  "CÂU HỎI": "Trong công văn số 2884\/PCLK - AT ngày 03\/11\/2023 V\/v triển khai thực hiện VHAT năm 2023. Trong nhóm mối nguy vật lý, biểu hiện \"Ngã ở độ cao dưới 4m xuống bề mặt đất cứng\" của mối nguy \"Ngã cao: Làm việc trên cao có thể bị ngã dẫn đến chấn thương...\" thuộc mức độ nguy hiểm nào?",
+  "A": "Mức độ 1",
+  "B": "Mức độ 3",
+  "C": "Mức độ 4",
+  "D": "Mức độ 5",
+  "ĐÁP ÁN ĐÚNG": "B"
+ },
+ {
+  "STT": 3,
+  "CÂU HỎI": "Trong công văn số 2884\/PCLK - AT ngày 03\/11\/2023 V\/v triển khai thực hiện VHAT năm 2023. Trong nhóm mối nguy hóa học, biểu hiện \"Tiếp xúc gây ảnh hưởng hệ hô hấp, thần kinh\" của mã gen \"Chất ăn mòn\" thuộc mức độ nguy hiểm nào?",
+  "A": "Mức độ 2",
+  "B": "Mức độ 3",
+  "C": "Mức độ 4",
+  "D": "Mức độ 5",
+  "ĐÁP ÁN ĐÚNG": "C"
+ },
+ {
+  "STT": 4,
+  "CÂU HỎI": "Trong công văn số 2884\/PCLK - AT ngày 03\/11\/2023 V\/v triển khai thực hiện VHAT năm 2023. Trong nhóm mối nguy sinh học, biểu hiện \"Cơ thể mệt mỏi\" của mối nguy \"Bệnh lý (thần kinh, huyết áp, đột quỵ…)\" thuộc mức độ nguy hiểm nào?",
+  "A": "Mức độ 1",
+  "B": "Mức độ 2",
+  "C": "Mức độ 3",
+  "D": "Mức độ 4",
+  "ĐÁP ÁN ĐÚNG": "A"
+ },
+ {
+  "STT": 5,
+  "CÂU HỎI": "Trong công văn số 2884\/PCLK - AT ngày 03\/11\/2023 V\/v triển khai thực hiện VHAT năm 2023. Việc đánh giá mức độ nghiêm trọng được phân theo mấy mức độ?",
+  "A": 3,
+  "B": 4,
+  "C": 5,
+  "D": 6,
+  "ĐÁP ÁN ĐÚNG": "C"
+ },
+ {
+  "STT": 6,
+  "CÂU HỎI": "Trong công văn số 2884\/PCLK - AT ngày 03\/11\/2023 V\/v triển khai thực hiện VHAT năm 2023. Việc đánh giá cấp độ rủi ro thông qua chỉ số HRN (Hazard rating number) chia thành mấy cấp độ rủi ro?",
+  "A": 2,
+  "B": 3,
+  "C": 4,
+  "D": 5,
+  "ĐÁP ÁN ĐÚNG": "C"
+ },
+ {
+  "STT": 7,
+  "CÂU HỎI": "Trong công văn số 2884\/PCLK - AT ngày 03\/11\/2023 V\/v triển khai thực hiện VHAT năm 2023. Điểm chỉ số HRN (Hazard rating number) của cấp độ 3 - Rủi ro cao là bao nhiêu?",
+  "A": "Từ 1 đến 4 điểm",
+  "B": "Từ 5 đến 9 điểm",
+  "C": "Từ 10 đến 12 điểm",
+  "D": "Từ 15 đến 25 điểm",
+  "ĐÁP ÁN ĐÚNG": "C"
+ },
+ {
+  "STT": 8,
+  "CÂU HỎI": "Trong công văn số 2884\/PCLK - AT ngày 03\/11\/2023 V\/v triển khai thực hiện VHAT năm 2023. Trong bảng nhận diện mối nguy và kiểm soát rủi ro rút gọn, dạng nguy cơ rủi ro \"Ngã cao\" thuộc nhóm nhận diện nguy cơ rủi ro nào ?",
+  "A": "Vật lý",
+  "B": "Hóa học",
+  "C": "Sinh học",
+  "D": "Môi trường",
+  "ĐÁP ÁN ĐÚNG": "A"
+ },
+ {
+  "STT": 9,
+  "CÂU HỎI": "Trong công văn số 2884\/PCLK - AT ngày 03\/11\/2023 V\/v triển khai thực hiện VHAT năm 2023. Trong bảng nhận diện mối nguy và kiểm soát rủi ro rút gọn, dạng nguy cơ rủi ro \"Chất ăn mòn\" thuộc nhóm nhận diện nguy cơ rủi ro nào ?",
+  "A": "Vật lý",
+  "B": "Hóa học",
+  "C": "Sinh học",
+  "D": "Môi trường",
+  "ĐÁP ÁN ĐÚNG": "B"
+ },
+ {
+  "STT": 10,
+  "CÂU HỎI": "Trong công văn số 2884\/PCLK - AT ngày 03\/11\/2023 V\/v triển khai thực hiện VHAT năm 2023. Trong bảng nhận diện mối nguy và kiểm soát rủi ro rút gọn, dạng nguy cơ rủi ro \"Thần kinh, huyết áp\" thuộc nhóm nhận diện nguy cơ rủi ro nào ?",
+  "A": "Vật lý",
+  "B": "Hóa học",
+  "C": "Sinh học",
+  "D": "Môi trường",
+  "ĐÁP ÁN ĐÚNG": "C"
+ },
+ {
+  "STT": 11,
+  "CÂU HỎI": "Trong công văn số 2884\/PCLK - AT ngày 03\/11\/2023 V\/v triển khai thực hiện VHAT năm 2023. Trong bảng nhận diện mối nguy và kiểm soát rủi ro rút gọn, dạng nguy cơ rủi ro \"Không gian chật hẹp\" thuộc nhóm nhận diện nguy cơ rủi ro nào ?",
+  "A": "Vật lý",
+  "B": "Hóa học",
+  "C": "Sinh học",
+  "D": "Môi trường",
+  "ĐÁP ÁN ĐÚNG": "D"
+ },
+ {
+  "STT": 12,
+  "CÂU HỎI": "Trong công văn số 2884\/PCLK - AT ngày 03\/11\/2023 V\/v triển khai thực hiện VHAT năm 2023. Trong bảng nhận diện mối nguy và kiểm soát rủi ro rút gọn, nhóm nhận diện nguy cơ rủi ro Vật lý, dạng nguy cơ rủi ro \"Tham gia giao thông\" thuộc cấp độ mấy ?",
+  "A": 1,
+  "B": 2,
+  "C": 3,
+  "D": 4,
+  "ĐÁP ÁN ĐÚNG": "D"
+ },
+ {
+  "STT": 13,
+  "CÂU HỎI": "Trong công văn số 2884\/PCLK - AT ngày 03\/11\/2023 V\/v triển khai thực hiện VHAT năm 2023. Trong bảng nhận diện mối nguy và kiểm soát rủi ro rút gọn, nhóm nhận diện nguy cơ rủi ro Hóa học, dạng nguy cơ rủi ro \"Chất cháy, nổ, chất độc, chất gây ung thư\" thuộc cấp độ mấy ?",
+  "A": 1,
+  "B": 2,
+  "C": 3,
+  "D": 4,
+  "ĐÁP ÁN ĐÚNG": "B"
+ },
+ {
+  "STT": 14,
+  "CÂU HỎI": "Trong công văn số 2884\/PCLK - AT ngày 03\/11\/2023 V\/v triển khai thực hiện VHAT năm 2023. Trong bảng nhận diện mối nguy và kiểm soát rủi ro rút gọn, nhóm nhận diện nguy cơ rủi ro Sinh học, dạng nguy cơ rủi ro \"Côn trùng, bò sát tấn công\" thuộc cấp độ mấy ?",
+  "A": 1,
+  "B": 2,
+  "C": 3,
+  "D": 4,
+  "ĐÁP ÁN ĐÚNG": "C"
+ },
+ {
+  "STT": 15,
+  "CÂU HỎI": "Trong công văn số 2884\/PCLK - AT ngày 03\/11\/2023 V\/v triển khai thực hiện VHAT năm 2023. Trong bảng nhận diện mối nguy và kiểm soát rủi ro rút gọn, nhóm nhận diện nguy cơ rủi ro Môi trường, dạng nguy cơ rủi ro \"Áp lực công việc\" thuộc cấp độ mấy ?",
+  "A": 1,
+  "B": 2,
+  "C": 3,
+  "D": 4,
+  "ĐÁP ÁN ĐÚNG": "C"
+ },
+ {
+  "STT": 16,
+  "CÂU HỎI": "Trong công văn số 2884\/PCLK - AT ngày 03\/11\/2023 V\/v triển khai thực hiện VHAT năm 2023. Đâu là biện pháp kiểm soát rủi ro của dạng nguy cơ \"Sức khỏe tinh thần\" ?",
+  "A": "Bố trí công việc phù hợp",
+  "B": "Sắp xếp, ưu tiên công việc",
+  "C": "Cải tạo không gian làm việc",
+  "D": "Bồi dưỡng, nghỉ ngơi hợp lý",
+  "ĐÁP ÁN ĐÚNG": "D"
+ },
+ {
+  "STT": 17,
+  "CÂU HỎI": "Trong công văn số 2884\/PCLK - AT ngày 03\/11\/2023 V\/v triển khai thực hiện VHAT năm 2023. Đâu là biện pháp kiểm soát rủi ro của dạng nguy cơ \"Điện phóng\" ?",
+  "A": "Giữ đúng khoảng cách, cắt điện, nối đất khi làm việc",
+  "B": "Quan sát, tránh va đập",
+  "C": "Cảnh báo, ngăn cách tiếp xúc",
+  "D": "Tránh tiếp xúc trực tiếp",
+  "ĐÁP ÁN ĐÚNG": "A"
+ },
+ {
+  "STT": 18,
+  "CÂU HỎI": "Trong công văn số 2884\/PCLK - AT ngày 03\/11\/2023 V\/v triển khai thực hiện VHAT năm 2023. Đâu là biện pháp kiểm soát rủi ro của dạng nguy cơ \"Tham gia giao thông\" ?",
+  "A": "Kiểm tra phương tiện, kỹ năng di chuyển",
+  "B": "Quan sát, treo buộc chắc chắn",
+  "C": "Quan sát, loại bỏ, phòng tránh",
+  "D": "Nhận biết, phòng tránh",
+  "ĐÁP ÁN ĐÚNG": "A"
+ },
+ {
+  "STT": 19,
+  "CÂU HỎI": "Trong công văn số 2884\/PCLK - AT ngày 03\/11\/2023 V\/v triển khai thực hiện VHAT năm 2023. Đâu là biện pháp kiểm soát rủi ro của dạng nguy cơ \"Thần kinh, huyết áp\" ?",
+  "A": "Bố trí công việc phù hợp",
+  "B": "Sắp xếp, ưu tiên công việc",
+  "C": "Cải tạo không gian làm việc",
+  "D": "Bồi dưỡng, nghỉ ngơi hợp lý",
+  "ĐÁP ÁN ĐÚNG": "A"
+ },
+ {
+  "STT": 20,
+  "CÂU HỎI": "Trong công văn số 2884\/PCLK - AT ngày 03\/11\/2023 V\/v triển khai thực hiện VHAT năm 2023. Đâu là biện pháp kiểm soát rủi ro của dạng nguy cơ \"Áp lực công việc\" ?",
+  "A": "Bố trí công việc phù hợp",
+  "B": "Sắp xếp, ưu tiên công việc",
+  "C": "Cải tạo không gian làm việc",
+  "D": "Bồi dưỡng, nghỉ ngơi hợp lý",
+  "ĐÁP ÁN ĐÚNG": "B"
+ },
+ {
+  "STT": 21,
+  "CÂU HỎI": "Trong công văn số 2884\/PCLK - AT ngày 03\/11\/2023 V\/v triển khai thực hiện VHAT năm 2023. Theo cách nhìn của Công ty Điện lực Lào Cai thì khái niệm Văn hóa an toàn là gì?",
+  "A": "VHAT là tập hợp Văn hóa lãnh đạo và tôn vinh giá trị cốt lõi. ",
+  "B": "VHAT phản ánh sự tương tác thực sự ở tất cả các cấp trong Công ty để đảm bảo an toàn trong sản xuất kinh doanh (SXKD) kể cả khi không có sự giám sát.",
+  "C": "Đáp án A, B đúng",
+  "D": "Đáp án A, B sai",
+  "ĐÁP ÁN ĐÚNG": "C"
+ },
+ {
+  "STT": 22,
+  "CÂU HỎI": "Trong công văn số 2884\/PCLK - AT ngày 03\/11\/2023 V\/v triển khai thực hiện VHAT năm 2023 thì đâu là vai trò của người làm công tác An toàn?",
+  "A": "Xây dựng nội quy, quy định biện pháp bảo đảm an toàn lao động, vệ sinh lao động; các quy định về phòng, chống cháy nổ tại cơ sở sản xuất, kinh doanh",
+  "B": "Xây dựng nội quy, quy định biện pháp bảo đảm an toàn lao động, vệ sinh lao động, các quy định về phòng, chống cháy nổ tại cơ sở sản xuất, kinh doanh",
+  "C": "Lên kế hoạch và tổ chức hoạt động thông tin, tuyên truyền và huấn luyện về an toàn, vệ sinh lao động, bồi dưỡng kỹ năng sơ cứu, cấp cứu, phòng, chống bệnh nghề nghiệp cho người lao động",
+  "D": "Cả 3 đáp án trên ",
+  "ĐÁP ÁN ĐÚNG": "D"
+ },
+ {
+  "STT": 23,
+  "CÂU HỎI": "Trong công văn số 2884\/PCLK - AT ngày 03\/11\/2023 V\/v triển khai thực hiện VHAT năm 2023 thì đâu là vai trò của người làm công tác An toàn?",
+  "A": "Tổ chức tự kiểm tra về an toàn, vệ sinh lao động, điều tra tai nạn lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động theo quy định của pháp luật",
+  "B": "Tổ chức thi đua, khen thưởng, kỷ luật, báo cáo, thống kê về công tác an toàn vệ sinh lao động",
+  "C": "Đáp án A, B đúng",
+  "D": "Đáp án A, B sai",
+  "ĐÁP ÁN ĐÚNG": "C"
+ },
+ {
+  "STT": 24,
+  "CÂU HỎI": "Trong công văn số 2884\/PCLK - AT ngày 03\/11\/2023 V\/v triển khai thực hiện VHAT năm 2023 thì thực trạng của VHAT có cơ hội gì?",
+  "A": "VHAT của EVNNPC đã được hình thành và từng bước phát triển",
+  "B": "Có sự quyết tâm đổi mới xây dựng văn hóa an toàn của lãnh đạo cấp trên",
+  "C": "Được sự đầu tư, cải tạo, nâng cấp và hiện đại hóa Hệ thống điện từ cấp trên",
+  "D": "Cả 3 đáp án trên ",
+  "ĐÁP ÁN ĐÚNG": "D"
+ },
+ {
+  "STT": 25,
+  "CÂU HỎI": "Trong công văn số 2884\/PCLK - AT ngày 03\/11\/2023 V\/v triển khai thực hiện VHAT năm 2023. Thì giải pháp về xây dựng Văn hóa an toàn của PC Lào Cai dựa trên các trụ cột nào ?",
+  "A": "Lãnh đạo Văn hóa an toàn.",
+  "B": "Tôn vinh các giá trị cốt lõi.",
+  "C": "Đáp án A, B đúng",
+  "D": "Đáp án A, B sai",
+  "ĐÁP ÁN ĐÚNG": "C"
+ },
+ {
+  "STT": 26,
+  "CÂU HỎI": "Trong công văn số 2884\/PCLK - AT ngày 03\/11\/2023 V\/v triển khai thực hiện VHAT năm 2023. Giá trị cốt lõi Niềm tin trong VHAT có những biểu hiện gì?",
+  "A": "Lắng nghe ý kiến, tạo dựng sự yên tâm",
+  "B": "Có sự nhất quán giữa lời nói và hành động hướng tới sự công bằng",
+  "C": "Bảo vệ an toàn cho người lao động bằng quy trình, quy phạm",
+  "D": "Cả 3 đáp án trên ",
+  "ĐÁP ÁN ĐÚNG": "D"
+ },
+ {
+  "STT": 27,
+  "CÂU HỎI": "Trong công văn số 2884\/PCLK - AT ngày 03\/11\/2023 V\/v triển khai thực hiện VHAT năm 2023. Giá trị cốt lõi Niềm tin trong VHAT có những biểu hiện gì?",
+  "A": "Tuân thủ các chuẩn mực về an toàn",
+  "B": "Coi trọng sức khỏe và tính mạng của người lao động",
+  "C": "Động viên, khen thưởng, xử lý nghiêm minh",
+  "D": "Cả 3 đáp án trên ",
+  "ĐÁP ÁN ĐÚNG": "D"
+ },
+ {
+  "STT": 28,
+  "CÂU HỎI": "Trong công văn số 2884\/PCLK - AT ngày 03\/11\/2023 V\/v triển khai thực hiện VHAT năm 2023. Giá trị cốt lõi Chất lượng trong VHAT có những biểu hiện gì?",
+  "A": "Thực thi an toàn theo kế hoạch, mục tiêu",
+  "B": "Tuân thủ quy trình, quy định về ATVSLĐ",
+  "C": "CBCNV được tuyên truyền, truyền thông về ATVSLĐ",
+  "D": "Cả 3 đáp án trên ",
+  "ĐÁP ÁN ĐÚNG": "D"
+ },
+ {
+  "STT": 29,
+  "CÂU HỎI": "Trong công văn số 2884\/PCLK - AT ngày 03\/11\/2023 V\/v triển khai thực hiện VHAT năm 2023. Giá trị cốt lõi Chất lượng trong VHAT có những biểu hiện gì?",
+  "A": "Môi trường làm việc an toàn",
+  "B": "Dụng cụ an toàn hiện đại, gọn nhẹ, dễ sử dụng",
+  "C": "Coi trọng phòng ngừa và nhận diện rủi ro",
+  "D": "Cả 3 đáp án trên ",
+  "ĐÁP ÁN ĐÚNG": "D"
+ },
+ {
+  "STT": 30,
+  "CÂU HỎI": "Trong công văn số 2884\/PCLK - AT ngày 03\/11\/2023 V\/v triển khai thực hiện VHAT năm 2023. Giá trị cốt lõi Tiên phong trong VHAT có những biểu hiện gì?",
+  "A": "Phản ứng nhanh, hiệu quả với thách thức về an toàn",
+  "B": "Chủ động nắm bắt xu thế phát triển công nghệ an toàn",
+  "C": "Thấu hiểu nhu cầu an toàn của bản thân, tổ chức",
+  "D": "Cả 3 đáp án trên ",
+  "ĐÁP ÁN ĐÚNG": "D"
+ },
+ {
+  "STT": 31,
+  "CÂU HỎI": "Trong công văn số 2884\/PCLK - AT ngày 03\/11\/2023 V\/v triển khai thực hiện VHAT năm 2023. Giá trị cốt lõi Tiên phong trong VHAT có những biểu hiện gì?",
+  "A": "Chủ động nhận diện những ảnh hưởng đến môi trường an toàn",
+  "B": "Tiên phong khơi nguồn cảm hứng cho những hành vi tích cực trong ATLĐ",
+  "C": "Đáp án A, B đúng",
+  "D": "Đáp án A, B sai",
+  "ĐÁP ÁN ĐÚNG": "C"
+ },
+ {
+  "STT": 32,
+  "CÂU HỎI": "Trong công văn số 2884\/PCLK - AT ngày 03\/11\/2023 V\/v triển khai thực hiện VHAT năm 2023. Giá trị cốt lõi Sáng tạo trong VHAT có những biểu hiện gì?",
+  "A": "Khuyến khích ý tưởng cải tiến môi trường làm việc an toàn",
+  "B": "Không ngừng học hỏi - Tích lũy kinh nghiệm - Đổi mới tư duy",
+  "C": "Ứng dụng khoa học công nghệ, giải pháp trong ATLĐ",
+  "D": "Cả 3 đáp án trên ",
+  "ĐÁP ÁN ĐÚNG": "D"
+ },
+ {
+  "STT": 33,
+  "CÂU HỎI": "Trong công văn số 2884\/PCLK - AT ngày 03\/11\/2023 V\/v triển khai thực hiện VHAT năm 2023. Giá trị cốt lõi Sáng tạo trong VHAT có những biểu hiện gì?",
+  "A": "Tôn trọng tư duy, phương pháp làm việc đa dạng",
+  "B": "Cải tiến các quy định, tiêu chuẩn về ATVSLĐ",
+  "C": "Đáp án A, B đúng",
+  "D": "Đáp án A, B sai",
+  "ĐÁP ÁN ĐÚNG": "C"
+ },
+ {
+  "STT": 34,
+  "CÂU HỎI": "Trong công văn số 2884\/PCLK - AT ngày 03\/11\/2023 V\/v triển khai thực hiện VHAT năm 2023. Giá trị cốt lõi Trách nhiệm trong VHAT có những biểu hiện gì?",
+  "A": "Đảm bảo ATLĐ cho bản thân và người khác",
+  "B": "Toàn tâm, toàn ý - Kiểm soát chặt chẽ - Ngăn chặn tai nạn",
+  "C": "Dám nghĩ, dám nói, quyết làm, sẵn sàng chịu trách nhiệm",
+  "D": "Cả 3 đáp án trên ",
+  "ĐÁP ÁN ĐÚNG": "D"
+ },
+ {
+  "STT": 35,
+  "CÂU HỎI": "Trong công văn số 2884\/PCLK - AT ngày 03\/11\/2023 V\/v triển khai thực hiện VHAT năm 2023. Giá trị cốt lõi Trách nhiệm trong VHAT có những biểu hiện gì?",
+  "A": "Trang bị kiến thức, công cụ, giải pháp về an toàn ",
+  "B": "Nhất quán trong các cam kết về ATVSLĐ",
+  "C": "Giữ gìn uy tín thương hiệu an toàn cho tổ chức",
+  "D": "Cả 3 đáp án trên ",
+  "ĐÁP ÁN ĐÚNG": "D"
+ },
+ {
+  "STT": 36,
+  "CÂU HỎI": "Trong công văn số 2884\/PCLK - AT ngày 03\/11\/2023 V\/v triển khai thực hiện VHAT năm 2023. Văn hóa an toàn có vai trò gì trong giai đoạn chuyển đổi số ?",
+  "A": "Ứng dụng công nghệ số nâng cao an toàn cho người lao động",
+  "B": "Rút ngắn thời gian, thủ tục an toàn để nâng cao năng suất lao động",
+  "C": "Thực hiện đầy đủ, đồng bộ và có hiệu quả 3 nhóm giải pháp: Khách hàng số (người lao động), Quy trình số, Doanh nghiệp số",
+  "D": "Cả 3 đáp án trên ",
+  "ĐÁP ÁN ĐÚNG": "D"
+ },
+ {
+  "STT": 37,
+  "CÂU HỎI": "Trong công văn số 2884\/PCLK - AT ngày 03\/11\/2023 V\/v triển khai thực hiện VHAT năm 2023. Lãnh đạo có vai trò như thế nào trong việc quyết định thành công chuyển đổi số trong doanh nghiệp ?",
+  "A": "Gương mẫu, phụng sự và tiên phong trong mọi hoạt động",
+  "B": "Tạo động lực cho người lao động (NLĐ) trong CĐS",
+  "C": "Tạo dựng nền tảng CĐS trong Văn hóa an toàn (VHAT).",
+  "D": "Cả 3 đáp án trên ",
+  "ĐÁP ÁN ĐÚNG": "D"
+ },
+ {
+  "STT": 38,
+  "CÂU HỎI": "Trong công văn số 2884\/PCLK - AT ngày 03\/11\/2023 V\/v triển khai thực hiện VHAT năm 2023. Lãnh đạo có vai trò như thế nào trong việc quyết định thành công chuyển đổi số trong doanh nghiệp ?",
+  "A": "Khuyến khích, lôi cuốn, thúc đẩy ý tưởng, sáng kiến cải tiến, xây dựng môi trường làm việc an toàn",
+  "B": "Định hướng và dẫn dắt CĐS trong VHAT.",
+  "C": "Giữ vai trò then chốt quyết định thành công CĐS",
+  "D": "Cả 3 đáp án trên ",
+  "ĐÁP ÁN ĐÚNG": "D"
+ },
+ {
+  "STT": 39,
+  "CÂU HỎI": "Trong công văn số 2884\/PCLK - AT ngày 03\/11\/2023 V\/v triển khai thực hiện VHAT năm 2023. Các yếu tố nào sau đây ảnh hưởng đến chuyển đổi số trong VHAT ?",
+  "A": "Tuổi đời bình quân cao, tiếp cận công nghệ vận hành, an toàn hạn chế",
+  "B": "Người lao động thiếu kỹ năng làm việc, chưa khai thác, vận hành có hiệu quả thiết bị lưới điện thông minh (kết nối điều khiển xa, cài đặt thông số MC, LBS…)",
+  "C": "Người lao động chưa chủ động, tự tin, đề xuất các giải pháp chuyển đổi số",
+  "D": "Cả 3 đáp án trên ",
+  "ĐÁP ÁN ĐÚNG": "D"
+ },
+ {
+  "STT": 40,
+  "CÂU HỎI": "Trong công văn số 2884\/PCLK - AT ngày 03\/11\/2023 V\/v triển khai thực hiện VHAT năm 2023. VHAT trong giai đoạn chuyển đổi số theo cách nhìn của PCLK dựa trên các trụ cột nào ?",
+  "A": "Lãnh đạo Văn hóa an toàn.",
+  "B": "Tôn vinh các giá trị cốt lõi.",
+  "C": "Đáp án A, B đúng",
+  "D": "Đáp án A, B sai",
+  "ĐÁP ÁN ĐÚNG": "C"
+ },
+ {
+  "STT": 41,
+  "CÂU HỎI": "Trong công văn số 2884\/PCLK - AT ngày 03\/11\/2023 V\/v triển khai thực hiện VHAT năm 2023. Biểu hiện nào là biểu hiện VHAT phù hợp CĐS của giá trị cốt lõi Niềm tin?",
+  "A": "Lắng nghe, ứng xử chuyên nghiệp trên môi trường số",
+  "B": "Nhất quán giữa lời nói và hành động",
+  "C": "Bảo vệ an toàn bằng số hóa Quy trình, quy phạm",
+  "D": "Cả 3 đáp án trên ",
+  "ĐÁP ÁN ĐÚNG": "D"
+ },
+ {
+  "STT": 42,
+  "CÂU HỎI": "Trong công văn số 2884\/PCLK - AT ngày 03\/11\/2023 V\/v triển khai thực hiện VHAT năm 2023. Biểu hiện nào là biểu hiện VHAT phù hợp CĐS của giá trị cốt lõi Niềm tin?",
+  "A": "Chia sẻ thông tin an toàn qua nền tảng số",
+  "B": "Giải pháp công nghệ quản lý an toàn tin cậy, ổn định",
+  "C": "Dùng công nghệ để hỗ trợ Động viên- Khen thưởng- Xử lý",
+  "D": "Cả 3 đáp án trên ",
+  "ĐÁP ÁN ĐÚNG": "D"
+ },
+ {
+  "STT": 43,
+  "CÂU HỎI": "Trong công văn số 2884\/PCLK - AT ngày 03\/11\/2023 V\/v triển khai thực hiện VHAT năm 2023. Biểu hiện nào là biểu hiện VHAT phù hợp CĐS của giá trị cốt lõi Chất lượng?",
+  "A": "Công nghệ hỗ trợ xây dựng kế hoạch, mục tiêu an toàn",
+  "B": "Truyền thông quy trình, quy định, An toàn vệ sinh lao động bằng công cụ số",
+  "C": "Số hóa tài liệu huấn luyện, kiểm tra, sát hạch",
+  "D": "Cả 3 đáp án trên ",
+  "ĐÁP ÁN ĐÚNG": "D"
+ },
+ {
+  "STT": 44,
+  "CÂU HỎI": "Trong công văn số 2884\/PCLK - AT ngày 03\/11\/2023 V\/v triển khai thực hiện VHAT năm 2023. Biểu hiện nào là biểu hiện VHAT phù hợp CĐS của giá trị cốt lõi Chất lượng?",
+  "A": "Duy trì tính bảo mật và an toàn trên môi trường số",
+  "B": "Trang bị dụng cụ an toàn phù hợp với tiến bộ công nghệ",
+  "C": "Ứng dụng công nghệ để kiểm tra, kiểm soát an toàn và phòng ngừa rủi ro",
+  "D": "Cả 3 đáp án trên ",
+  "ĐÁP ÁN ĐÚNG": "D"
+ },
+ {
+  "STT": 45,
+  "CÂU HỎI": "Trong công văn số 2884\/PCLK - AT ngày 03\/11\/2023 V\/v triển khai thực hiện VHAT năm 2023. Biểu hiện nào là biểu hiện VHAT phù hợp CĐS của giá trị cốt lõi Tiên phong?",
+  "A": "Phản ứng nhanh, hiệu quả các thách thức an toàn bằng công nghệ",
+  "B": "Chủ động nắm bắt xu thế phát triển công nghệ an toàn",
+  "C": "Thấu hiểu nhu cầu an toàn của bản thân, tổ chức",
+  "D": "Cả 3 đáp án trên ",
+  "ĐÁP ÁN ĐÚNG": "D"
+ },
+ {
+  "STT": 46,
+  "CÂU HỎI": "Trong công văn số 2884\/PCLK - AT ngày 03\/11\/2023 V\/v triển khai thực hiện VHAT năm 2023. Biểu hiện nào là biểu hiện VHAT phù hợp CĐS của giá trị cốt lõi Tiên phong?",
+  "A": "Chủ động nhận diện những ảnh hưởng đến môi trường an toàn bằng công nghệ số",
+  "B": "Tiên phong khơi nguồn cảm hứng cho những hành vi tích cực trong an toàn lao động",
+  "C": "Vượt qua thách thức về An toàn vệ sinh lao động trong kỷ nguyên số",
+  "D": "Cả 3 đáp án trên ",
+  "ĐÁP ÁN ĐÚNG": "D"
+ },
+ {
+  "STT": 47,
+  "CÂU HỎI": "Trong công văn số 2884\/PCLK - AT ngày 03\/11\/2023 V\/v triển khai thực hiện VHAT năm 2023. Biểu hiện nào là biểu hiện VHAT phù hợp CĐS của giá trị cốt lõi Sáng tạo?",
+  "A": "Khuyến khích ý tưởng cải tiến môi trường làm việc trong kỷ nguyên số",
+  "B": "Không ngừng học hỏi- Tích luỹ kinh nghiệm- Đổi mới tư duy trong quá trình chuyển đổi số",
+  "C": "Ứng dụng khoa học công nghệ, giải pháp trong an toàn lao động",
+  "D": "Cả 3 đáp án trên ",
+  "ĐÁP ÁN ĐÚNG": "D"
+ },
+ {
+  "STT": 48,
+  "CÂU HỎI": "Trong công văn số 2884\/PCLK - AT ngày 03\/11\/2023 V\/v triển khai thực hiện VHAT năm 2023. Biểu hiện nào là biểu hiện VHAT phù hợp CĐS của giá trị cốt lõi Sáng tạo?",
+  "A": "Tôn trọng tư duy, phương pháp làm việc đa dạng trong môi trường số",
+  "B": "Cải tiến các quy định, tiêu chuẩn về An toàn vệ sinh lao động trong môi trường số",
+  "C": "Đáp án A, B đúng",
+  "D": "Đáp án A, B sai",
+  "ĐÁP ÁN ĐÚNG": "C"
+ },
+ {
+  "STT": 49,
+  "CÂU HỎI": "Trong công văn số 2884\/PCLK - AT ngày 03\/11\/2023 V\/v triển khai thực hiện VHAT năm 2023. Biểu hiện nào là biểu hiện VHAT phù hợp CĐS của giá trị cốt lõi Trách nhiệm?",
+  "A": "Dùng công cụ số đảm bảo an toàn lao động cho bản thân và người khác",
+  "B": "Toàn tâm, toàn ý- Kiểm soát chặt chẽ- Ngăn chặn tai nạn",
+  "C": "Dám nghĩ, dám nói, quyết làm, sẵn sàng chịu trách nhiệm",
+  "D": "Cả 3 đáp án trên ",
+  "ĐÁP ÁN ĐÚNG": "D"
+ },
+ {
+  "STT": 50,
+  "CÂU HỎI": "Trong công văn số 2884\/PCLK - AT ngày 03\/11\/2023 V\/v triển khai thực hiện VHAT năm 2023. Biểu hiện nào là biểu hiện VHAT phù hợp CĐS của giá trị cốt lõi Trách nhiệm?",
+  "A": "Trang bị kiến thức, công cụ, giải pháp số về an toàn",
+  "B": "Nhất quán với các cam kết về An toàn vệ sinh lao động trong kỷ nguyên số",
+  "C": "Giữ gìn uy tín thương hiệu an toàn cho tổ chức bằng truyền thông số",
+  "D": "Cả 3 đáp án trên ",
+  "ĐÁP ÁN ĐÚNG": "D"
+ }
+]
