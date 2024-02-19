@@ -1,13 +1,13 @@
 class QuizBrain:
-
     def __init__(self, questions):
         self.question_no = 0
         self.score = 0
         self.questions = questions
         self.current_question = None
+        self.wrong_answers = []
 
     def has_more_questions(self):
-        """To check if the quiz has more questions"""
+        """Check if the quiz has more questions"""
         return self.question_no < len(self.questions)
 
     def next_question(self):
@@ -24,11 +24,16 @@ class QuizBrain:
             self.score += 1
             return True
         else:
+            self.record_wrong_answer()
             return False
 
+    def record_wrong_answer(self):
+        """Record the wrong answer"""
+        self.wrong_answers.append(self.current_question)
+
     def get_score(self):
-        """Get the number of correct answers, wrong answers and score percentage."""
+        """Get the number of correct answers, wrong answers, and score percentage"""
         total_questions = len(self.questions)
-        wrong = total_questions - self.score
+        wrong = len(self.wrong_answers)
         score_percent = (self.score / total_questions) * 100 if total_questions > 0 else 0
-        return (self.score, wrong, score_percent)
+        return self.score, wrong, score_percent

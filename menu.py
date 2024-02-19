@@ -8,6 +8,7 @@ def split_questions_into_sets(questions_bank, num_questions_per_set):
     num_sets = math.ceil(len(questions_bank) / num_questions_per_set)
     question_sets = []
 
+    shuffle(questions_bank)
     for i in range(num_sets):
         start_index = i * num_questions_per_set
         end_index = min(start_index + num_questions_per_set, len(questions_bank))

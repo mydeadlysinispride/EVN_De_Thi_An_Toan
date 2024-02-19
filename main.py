@@ -1,14 +1,15 @@
+import random
 from question_model import Question
 from quiz_brain import QuizBrain
 from quiz_ui import QuizInterface
-from menu import load_questions_from_file, split_questions_into_sets
+from menu import load_questions_from_file
 from tkinter import Tk, Button, Label, Scrollbar, Canvas, Frame
 
 THEME_COLOR = "#375362"
 
 class MenuInterface:
-    def __init__(self, question_sets):
-        self.question_sets = question_sets
+    def __init__(self, question_bank):
+        self.question_bank = question_bank
         self.root = Tk()
         self.root.title("Thi An toan EVN")
 
@@ -25,8 +26,8 @@ class MenuInterface:
         # Display Title
         self.display_title()
 
-        # Display quiz buttons
-        self.display_quizzes()
+        # Display quiz button
+        self.display_quiz()
 
         # Update canvas scroll region after adding widgets
         self.canvas.update_idletasks()
@@ -36,39 +37,29 @@ class MenuInterface:
 
 
     def display_title(self):
-        label = Label(self.frame, text="Chọn một đề Kiểm Tra An Toàn:", font=("Arial", 20))
+        label = Label(self.frame, text="Chọn một đề Kiểm Tra An Toàn:", font=("Times New Roman", 20))
         label.grid(row=0, column=0, pady=20)
 
-    def display_quizzes(self):
-        for i, question_set in enumerate(self.question_sets):
-            quiz_number = i + 1
-            quiz_button = Button(self.frame, text=f"Đề số {quiz_number}", font=("Arial", 14),
-                                 command=lambda index=i: self.start_quiz(index))
-            quiz_button.grid(row=i+1, column=0, padx=20, pady=10)
+    def display_quiz(self):
+        quiz_button = Button(self.frame, text="Bắt đầu bài kiểm tra", font=("Times New Roman", 14),
+                             command=self.start_quiz)
+        quiz_button.grid(row=1, column=0, padx=20, pady=10)
 
-    def start_quiz(self, index):
+    def start_quiz(self):
         self.root.destroy()  # Close the menu window
-        selected_question_set = self.question_sets[index]
-        quiz = QuizBrain(selected_question_set)
+        selected_questions = random.sample(self.question_bank, 70)  # Chọn ngẫu nhiên 70 câu hỏi
+        quiz = QuizBrain(selected_questions)
         quiz_ui = QuizInterface(quiz)
-        new_menu = MenuInterface(self.question_sets)  # Tạo một menu mới để chọn bài kiểm tra khác
- # Tạo một menu mới để chọn bài kiểm tra khác
-
 
 def main():
     # Load question data from JSON file
     file_path = 'questions_bank.json'
     question_bank = load_questions_from_file(file_path)
 
-    # Split question bank into sets with a fixed number of questions per set
-    num_questions_per_set = 50
-    question_sets = split_questions_into_sets(question_bank, num_questions_per_set)
-
     # Display menu and choose a quiz
-    menu = MenuInterface(question_sets)
+    menu = MenuInterface(question_bank)
 
     print("You've completed the quiz.")
-
 
 
 if __name__ == "__main__":

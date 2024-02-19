@@ -23,7 +23,7 @@ class QuizInterface:
                                                      text="Question here",
                                                      width=700,
                                                      font=(
-                                                         'Ariel', 17, 'italic')
+                                                         'Times New Roman', 17, 'italic')
                                                      )
         self.canvas.grid(row=2, column=0, columnspan=2, pady=50)
         self.display_question()
@@ -44,7 +44,7 @@ class QuizInterface:
         self.display_options()
 
         # To show whether the answer is correct or wrong
-        self.feedback = Label(self.window, pady=10, font=("Arial", 14, "bold"))
+        self.feedback = Label(self.window, pady=10, font=("Times New Roman", 14, "bold"))
         self.feedback.place(relx=0.25, rely=0.85, anchor='center')
 
         # Next and Submit Button
@@ -68,7 +68,7 @@ class QuizInterface:
         """To display title"""
         # Title
         title = Label(self.window, text="ĐỀ THI Thử An Toàn",
-                      width=100, bg="green", fg="white", font=("ariel", 20, "bold"))
+                      width=100, bg="green", fg="white", font=("Times New Roman", 20, "bold"))
 
         # place of the title
         title.place(x=0, y=2)
@@ -88,7 +88,7 @@ class QuizInterface:
         for i in range(4):
             text = f"{choices_labels[i]}. "  # Thêm nhãn a, b, c, d
             radio_btn = Radiobutton(self.radio_frame, text=text, variable=self.user_answer,
-                                    value='', font=("Arial", 15), wraplength=500, width=200, justify="left")
+                                    value='', font=("Times New Roman", 15), wraplength=500, width=200, justify="left")
             radio_btn.pack(side="top", anchor="w")
             choice_list.append(radio_btn)
 
@@ -173,17 +173,17 @@ class QuizInterface:
         """To show next and submit buttons"""
         # The first button is the Submit button to check the answer
         self.submit_button = Button(self.window, text="Trả lời", command=self.submit_btn,
-                                    width=10, bg="blue", fg="white", font=("ariel", 16, "bold"))
+                                    width=10, bg="blue", fg="white", font=("Times New Roman", 16, "bold"))
         self.submit_button.place(relx=0.25, rely=0.9, anchor='center')
 
         # The second button is the Next button to move to the next Question
         self.next_button = Button(self.window, text="Câu tiếp", command=self.next_btn,
-                                  width=10, bg="green", fg="white", font=("ariel", 16, "bold"))
+                                  width=10, bg="green", fg="white", font=("Times New Roman", 16, "bold"))
         self.next_button.place(relx=0.75, rely=0.9, anchor='center')
 
         # The third button is the Quit button to close the window
         self.quit_button = Button(self.window, text="Quit", command=self.window.destroy,
-                                  width=5, bg="red", fg="white", font=("ariel", 16, "bold"))
+                                  width=5, bg="red", fg="white", font=("Times New Roman", 16, "bold"))
         self.quit_button.place(relx=0.9, rely=0.1, anchor='center')
 
     def display_result(self):
@@ -194,14 +194,13 @@ class QuizInterface:
         wrong = f"Tra Lời Sai: {wrong}"
 
         # calculates the percentage of correct answers
-        result = f"Tổng Điểm: {score_percent}%"
+        result = f"Tổng Điểm: {score_percent:.2f}%"
 
-        # create a themed style for the messagebox
-        style = Style()
-        style.theme_use('clam')  # you can choose a different theme here
+        # Display whether the user passed or failed
+        pass_fail = "Đạt" if score_percent >= 85 else "Không Đạt"
 
         # Show a message box with the result
-        messagebox.showinfo("Result", f"{result}\n{correct}\n{wrong}")
+        messagebox.showinfo("Result", f"{result}\n{correct}\n{wrong}\n{pass_fail}")
 
 
 # Sample usage
